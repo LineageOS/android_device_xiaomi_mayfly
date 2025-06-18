@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="144.5px"
+    android:height="145.5px"
+    android:viewportWidth="144.5"
+    android:viewportHeight="145.5">
+  <path
+      android:pathData="M0.1,72.7l0.2,72.8 0.8,-11.5c2.7,-38 11.7,-66.3 27.8,-87.8 21.3,-28.2 52.2,-41.7 103.1,-45.1l12.5,-0.8 -72.2,-0.2 -72.3,-0.1 0.1,72.7z"
+      android:fillColor="#000000"/>
+</vector>
