@@ -509,13 +509,6 @@ vendor/etc/camera/xiaomiSceneDetection.xml
 vendor/etc/init/android.hardware.camera.provider@2.7-virtual-camera-service.rc
 vendor/etc/init/vendor.qti.camera.provider@2.7-service_64.rc
 vendor/etc/vintf/manifest/vendor.xiaomi.hardware.quickcamera@1.0-service.xml
-vendor/lib64/camera.device@3.2-impl.so
-vendor/lib64/camera.device@3.3-impl.so
-vendor/lib64/camera.device@3.4-external-impl.so
-vendor/lib64/camera.device@3.4-impl.so
-vendor/lib64/camera.device@3.5-external-impl.so
-vendor/lib64/camera.device@3.5-impl.so
-vendor/lib64/camera.device@3.6-external-impl.so
 vendor/lib64/camera/com.qti.tuned.default.bin
 vendor/lib64/camera/components/com.bots.node.vendortagwrite.so
 vendor/lib64/camera/components/com.mi.node.AIIE.so
