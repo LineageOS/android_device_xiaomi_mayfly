@@ -3,6 +3,3 @@ persist.vendor.fingerprint.type=udfps_optical
 persist.vendor.fingerprint.sensor_location=540|2163|107
 persist.vendor.sys.fp.fod.location.X_Y=433,2056
 persist.vendor.sys.fp.fod.size.width_height=214,214
-
-# Sensors
-ro.vendor.sensors.xiaomi.udfps=true

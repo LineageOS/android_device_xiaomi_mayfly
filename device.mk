@@ -5,6 +5,7 @@
 #
 
 # Inherit from sm8450-common
+TARGET_HAS_UDFPS := true
 $(call inherit-product, device/xiaomi/sm8450-common/common.mk)
 
 # Audio
